@@ -1,0 +1,237 @@
+<HTML>
+<HEAD>
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<TITLE>
+Page d'accueil de Jean-Yves Thibon
+</TITLE>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <style type="text/css">
+	<!--
+	  td {font-family: Arial, Helvetica, sans-serif; font-size:14}
+      a {  text-decoration: underline; font-family: Arial, Helvetica, sans-serif}
+      A:hover   {text-decoration: underline; color: #FF0000;}
+     -->
+    </style>
+
+
+
+
+
+
+
+
+<script language="Javascript" type="text/javascript">
+		<!-- 
+		if(document.images){
+				jyt1 = new Image
+				jyt2 = new Image
+				jyt3 = new Image
+				jyt1.src = "thibon.gif"
+				jyt2.src = "thibon_inv.gif"
+				jyt3.src = "metal.gif"
+		}
+		else{
+				jyt1 = ""
+				jyt2 = ""
+				document.jyt = ""
+		}
+		msg = ""
+
+		i = 0
+
+		function scroll(){
+				window.status =  msg.substring(i, msg.length) + msg.substring(0,i) 
+				if (i < msg.length){ i++ } else{ i=0 } 
+				setTimeout("scroll()",150)
+		}
+
+		function popup(page) {
+				window.open(page,'popup','top=0,left=0,width=790,height=510,toolbar=false,scrollbars=1,menubar=1');
+		} // -->	
+</script>
+
+
+
+
+</HEAD>
+
+
+<body  
+		BGCOLOR="#FCFEF8" TEXT="#000000" LINK="#177D1B" VLINK="#105613" >
+		
+<table BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="center">
+       <tr>
+          <td ALIGN="left" VALIGN="middle" WIDTH="71">
+            <a HREF="http://igm.univ-mlv.fr/institut" TARGET=_top><img SRC="logoigm.gif" WIDTH="70" HEIGHT="67" ALIGN="baseline" BORDER="0" ALT="Retour &agrave l'index de l'IGM"></a> 
+          </td>
+          <td WIDTH="543" VALIGN="top">
+            <p ALIGN="center">
+              <img SRC="titre-petit.jpg" WIDTH="424" HEIGHT="36" ALIGN="absmiddle" BORDER="0">
+              <br>
+              <font COLOR="#006633" SIZE="5" FACE="Times New Roman, Times, serif">
+                <i><b> Laboratoire d'informatique </b></i>
+              </font>
+
+              <br>
+              <font COLOR="#006633" SIZE="3" FACE="Times New Roman, Times, serif">
+                <i><b> UMR 8049 IGM-LabInfo </b></i>
+              </font>
+              <br>
+              <img SRC="barre.gif" WIDTH="500" HEIGHT="12" ALIGN="absmiddle">
+              <br>
+              <font SIZE="2" COLOR="#336600">
+
+                77454 Marne-la-Vall&eacute;e Cedex 2 &nbsp; -
+				&nbsp;&nbsp;T&eacute;l : +33.1.60.95.75.55 &nbsp;- 
+              </font>
+            </p>
+          </td>
+
+          <td ALIGN="left" VALIGN="middle" WIDTH="71">
+				  <a HREF="http://www.cnrs.fr/" TARGET=_top> <img 
+						  SRC="logoCNRS.jpg" WIDTH="105" 
+						  HEIGHT="67" ALIGN="baseline" BORDER="0" ALT="Site du CNRS"> </a> </td>
+       </tr>
+</table>
+
+    
+
+
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="2" COLOR="#000000">
+
+
+<BR>
+<A HREF="index_en.html"><I>English version</I></A>
+<BR>
+<HR>
+
+
+
+<H2>
+Jean-Yves THIBON</H2>
+<TABLE BORDER=0 >
+<TR>
+<TD VALIGN=CENTER>
+<a  onmouseover="document.jyt.src=jyt2.src" onmouseout="document.jyt.src=jyt1.src" onClick="document.jyt.src=jyt3.src" ><img src="thibon.gif" border="0" name="jyt" alt="jyt"></a> 
+</TD>
+<TD VALIGN=TOP>
+<TABLE BORDER=0 > 
+<TR>
+<TD VALIGN=TOP>Fonctions :&nbsp;</TD>
+
+<TD VALIGN=TOP>Professeur des Universit&eacute;s  </TD>
+</TR>
+<TR>
+<TD>Bureau :</TD>
+<TD> B&acirc;timent
+<a
+		href="javascript:popup('http://www.univ-mlv.fr/index.php?id=3479#5041')">Copernic</a> 4B150 (<a href="http://www.univ-mlv.fr/fr/intranetumlv/telechargeable/communication/pj00463.pdf">plan</a>)</TD>
+
+</TR>
+<TR>
+<TD>Tel :</TD>
+<TD>+33 (0)1 60 95 77 22</TD>
+
+</TR>
+<TR>
+<TD>Fax :</TD>
+<TD>+33 (0)1 60 95 75 57</TD>
+</TR>
+<TR>
+<TD>E-mail :</TD>
+<TD><img src="mail.gif"></TD>
+</TR>
+</TABLE>
+</TD>
+<TD VALIGN=CENTER><a href="http://www.iufrance.fr/les-membres-de-liuf/membre/817-jean-yves-thibon.html"><img src="iuf.gif" border="0" alt="IUF"></a></TD>
+</TR>
+</TABLE>
+
+<HR>
+<H2> <A HREF="ens.html">Enseignement</A><H2> 
+<HR>
+<H2> Recherche </H2>
+Responsable de l'&eacute;quipe 
+<A HREF="http://ligm.u-pem.fr/equipes/combinatoire-algebrique-et-calcul-symbolique/">Combinatoire Alg&eacute;brique et Calcul Symbolique</A>
+
+<H3><A HREF="articles.html">Publications</A>
+et <A HREF="TALKS/index.html">transparents d'expos&eacute;s</A>
+
+
+
+<H3> R&eacute;seaux de recherche </H3>
+
+<UL>
+<LI> <A HREF="http://www.mat.univie.ac.at/~kratt/ace/">Algebraic Combinatorics
+in Europe (ACE)</A>  (Research Training Network of the European Community, 
+2002 - 2005)<BR>
+
+<LI> <A HREF="http://math.univ-lyon1.fr/~ducloux/gdr/reseau.html">
+GDR Groupes, G&eacute;om&eacute;trie et Repr&eacute;sentations</A><BR>
+
+<LI> <A HREF="http://www.gdr-im.fr/">GDR Informatique
+Math&eacute;matique</A> (groupe de travail <a
+		href="http://www-igm.univ-mlv.fr/~novelli/GDR-IM/GDR.html">Combinatoire alg&eacute;brique</a>)
+<LI> <A HREF="anr/index.html">Alg&egrave;bres de Hopf combinatoires,
+op&eacute;rades et props</A> (Programme blanc ANR)
+<LI> <A HREF="CARMA/index.html">Combinatoire Alg&eacute;brique, R&eacute;surgence, Moules et Applications</A> (Programme blanc ANR)
+<LI> <A HREF="http://renorm.math.cnrs.fr/spip.php?article5">GDR Renormalisation</A>
+<LI> <A HREF="CARPLO/index.html">Combinatoire Alg&eacute;brique, Renormalisation, Probabilit&eacute;s Libres et Op&eacute;rades</A>(Programme blanc ANR)
+
+
+</UL>
+
+<H3> Activit&eacute;s &eacute;ditoriales </H3>
+<UL>
+<LI>
+<A  HREF="http://www.mat.univie.ac.at/~slc">S&eacute;minaire Lotharingien
+de Combinatoire </A><BR>
+
+<LI> <A HREF="http://www.sciencedirect.com/science/journal/00218693">Journal
+of Algebra</A>, section <A HREF="algebra_cfp.pdf">Computational Algebra
+</A>(2004-2017)
+
+
+
+<!-- <LI><A HREF="http://www.hindawi.com/journals/ijct/editors.html">International Journal of Combinatorics</A>-->
+<!-- <LI><A HREF="http://aditisci.com/index.php?act=edi&jid=7">Intercontinental journal of combinatorial theory</A> -->
+<!-- <LI><A HREF="http://www.m-hikari.com/pms/index.html">Pure Mathematical Sciences</A> -->
+<LI>
+<A HREF="http://www.fpsac.org/"> SFCA/FPSAC,
+	S&eacute;ries Formelles et Combinatoire Alg&eacute;brique </A>
+<!-- <LI><A HREF="http://www.hindawi.com/journals/jdm/editors/">Journal of Discrete Mathematics</A> -->
+<LI><A HREF="http://www.ems-ph.org/journals/journal.php?jrn=aihpd">Annales de l'Institut Henri Poincar&eacute; D</A>
+</UL>
+
+                                          
+
+Plus de documents avec Google Scholar ...
+
+<!-- Google Scholar -->
+<form method="get" action="http://scholar.google.com/scholar">
+<table bgcolor="#FFFFFF">
+  <tr>
+    <td><a href="http://scholar.google.com/"> <img
+src="http://scholar.google.com/scholar/scholar_sm.gif" alt="Google Scholar"
+width="105" height="40" border="0" align="absmiddle" /></a>
+    <input type="text" name="q" size="25" maxlength="255" value="&quot;JY Thibon&quot;" />
+    <input type="submit" name="btnG" value="Search" />
+    </td>
+  </tr>
+</table>
+</form>
+<!-- Google Scholar --> 
+
+... et aussi avec 
+
+<a href="http://scholar.google.com/citations?user=0Yh6v1AAAAAJ">mon profil de citations google</a>, 
+ou encore <a
+		href="http://www.scirus.com/srsapp/search?t=all&q=Thibon&cn=all&co=AND&t=any&q=JY+Jean-Yves+J.-Y.&cn=all&g=a&fdt=1982&tdt=2007&dt=all&ff=all&ds=jnl&ds=nom&ds=web&sa=comp&sa=math&g=a">SciRus</a>
+<HR>
+</BODY>
+</HTML>
+
