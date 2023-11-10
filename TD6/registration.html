@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+    body{width:80%;margin-left:auto;margin-right:auto;}
+    label{display: inline-block;float: left;clear: left;width: 250px;text-align: right;margin-bottom: 5px;}
+    input {display: inline-block;float: left; margin-left: 20px; border-radius: 5px; margin-bottom: 5px;}
+    input:invalid {border:1px solid red;}
+    h1,h2{text-align: center;}
+</style>
+<body>
+    <h1>Fédération Française de Friture à Froid</h1>
+    <h2> Inscription au 6 ème Congrès</h2>
+    <hr>
+    <form action="cgi-bin/app.py" method="POST">
+        <label> Nom </label>
+        <input type="text" name="name" value="Nom" /><br>
+        <label> Prénom </label>
+        <input type="text" name="firstname" value="Prenom" /><br>
+        <label> Email </label>
+        <input type="text" name="email" value="Email" /><br>
+        <label>Société </label>
+        <input type="text" name="society" value="Société" /><br>
+        <label>Téléphone </label>
+        <input type="text" oninput="this.value=this.value.replace(/(?![0-9])./gmi,'')" name="phone_number" value="0600000000" placeholder="Téléphone" maxlength="10"/><br>
+        <label>Arrivée (date et heure) </label>
+        <input type="datetime-local" name="arrival" value="Arrivée" /><br>
+        <label>Départ (date et heure) </label>
+        <input type="datetime-local" name="departure" value="Départ" /><br>
+        <input type="button" value=" Envoyer " onclick="this.form.submit(  )" />
+        </form>
+</body>
